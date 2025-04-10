@@ -8,5 +8,9 @@ kilometers_to_miles = kilometers / 1.60934
 
 print(miles, "miles are", round(miles_to_kilometers, 2), "kilómeters")
 print(kilometers, "kilómeters are", round(kilometers_to_miles, 2), "miles")
-papel = "papek"
-print ("no se que poner" + papel)
+
+#this is a test to see what happens if i put "+" in the middle of a string
+papel = "papel"
+print ("idk what should i put here" + papel) 
+# this is what happens
+# "idk what should i put herepapel"
